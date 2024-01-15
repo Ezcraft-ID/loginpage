@@ -7,7 +7,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     // Dalam contoh ini, kita menggunakan username: admin dan password: 12345 sebagai contoh
     if (username === "admin" && password === "admin") {
         alert("Login berhasil!");
-        window.location.href = "/baru/"; // Alihkan ke tampilan utama web
+        window.location.href = "https://www.youtube.com/watch?v=DeIk06jAULc"; // Alihkan ke tampilan utama web
     } else {
         alert("Username atau password salah!");
     }
